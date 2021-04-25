@@ -40,7 +40,6 @@ $ npm run dev / yarn dev
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE] (LICENSE.md) para obter detalhes.
 
 ---
 
