@@ -23,7 +23,7 @@ Esse projeto utiliza as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/pedrovinhas/podcastr 
+$ git clone https://github.com/JoseVictorNascimento/podcastr
 
 # Entre na pasta do projeto
 $ cd podcastr
@@ -40,7 +40,7 @@ $ npm run dev / yarn dev
 
 ## 📝 Licença
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE] (LICENSE.md) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
